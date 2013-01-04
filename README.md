@@ -12,12 +12,12 @@ Input:
 
 Output: 
   Prints ranked teams/players and the score each one received under the simple ranking 
-	system in tab-delimited text (can be pasted into excel). 
+  system in tab-delimited text (can be pasted into excel). 
 
-	Each teams' score is determined by the following equation:
-	score = average point differential + average score of opponents (strength of schedule)
-	since each team's score depends on other teams' score these equations need to be solved simultaneously
-	a more detailed description of the methodology is available at http://www.pro-football-reference.com/blog/?p=37
+  Each teams' score is determined by the following equation:
+  score = average point differential + average score of opponents (strength of schedule)
+  since each team's score depends on other teams' score these equations need to be solved simultaneously
+  a more detailed description of the methodology is available at http://www.pro-football-reference.com/blog/?p=37
 
 Usage: 
   Create csv file with the format specified by "Input".
